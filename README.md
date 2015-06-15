@@ -1,1 +1,2 @@
 # TicTacToe
+This is a Tic Tac Toe game for iOS that I worked for a mobile development class.  The frame work for the game was provided by my instructor.  My task was to create the game logic.  I created the logic for the different game modes and the page for selecting the modes.  The game modes control how the computer playes the game.  I created the logic that controlled the flow of the game e.g. player turn and computer turn.
