@@ -1,0 +1,311 @@
+TTicTacToe
+v7
+r0
+t319565062.523916
+cCheck dependencies
+cProcessInfoPlistFile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/Info.plist TicTacToe-Info.plist
+cCompileXIB /Users/mcleung/Documents/iPhoneProjects/TicTacToe/FlipsideView.xib
+cCompileXIB /Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainView.xib
+cCompileXIB /Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainWindow.xib
+cProcessPCH /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch.gch TicTacToe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/main.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToeAppDelegate.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/MainViewController.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/FlipsideViewController.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe normal i386
+cGenerateDSYMFile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app.dSYM /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe
+cTouch /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.h
+c000000004D5B7697000000000000025F
+t1297839767
+s607
+i<UIKit/UIKit.h>
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m
+c000000004D5B7EAB000000000000064E
+t1297841835
+s1614
+i"FlipsideViewController.h"
+i"MainViewController.h"
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.h
+c000000004D5B7EF2000000000000035B
+t1297841906
+s859
+i"FlipsideViewController.h"
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m
+c000000004D5BF5860000000000001092
+t1297872262
+s4242
+i"MainViewController.h"
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.h
+c000000004D5B49C100000000000001EA
+t1297828289
+s490
+i<UIKit/UIKit.h>
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m
+c000000004D5B49C10000000000000AB3
+t1297828289
+s2739
+i"TicTacToeAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/FlipsideView.xib
+c000000004D5B702700000000000066ED
+t1297838119
+s26349
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainView.xib
+c000000004D5B5CEC000000000000AB4D
+t1297833196
+s43853
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainWindow.xib
+c000000004D5B51A50000000000005990
+t1297830309
+s22928
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/TicTacToe_Prefix.pch
+c000000004D5B49C10000000000000144
+t1297828289
+s324
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app
+t1297872262
+s272
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app.dSYM
+t1297872262
+s102
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/FlipsideView.nib
+t1297838565
+s2106
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/Info.plist
+t1297828838
+s599
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/MainView.nib
+t1297833207
+s3799
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/MainWindow.nib
+t1297830315
+s1151
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/PkgInfo
+t1297828838
+s8
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe
+t1297872262
+s26108
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/FlipsideViewController.o
+t1297841906
+s42396
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/MainViewController.o
+t1297872262
+s57604
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToe.LinkFileList
+c000000004D5B4BE60000000000000254
+t1297828838
+s596
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToeAppDelegate.o
+t1297841906
+s51364
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/main.o
+t1297828840
+s6324
+
+N/Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m
+c000000004D5B49C10000000000000171
+t1297828289
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch.gch
+t1297828839
+s15453392
+
+NTicTacToe-Info.plist
+c000000004D5B49C1000000000000038D
+t1297828289
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319565062#319565062#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/FlipsideViewController.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319534706.449631
+e319534706.531996
+r1
+xCompileC
+xbuild/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m319534706#319534706#0(0"0(0#0#82"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m8612038144#2119"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-generated-files.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-own-target-headers.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-all-target-headers.hmap -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-project-headers.hmap -F/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/include -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources/i386 -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources -include /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch -c /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/FlipsideViewController.m -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/MainViewController.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319565062.262717
+e319565062.480707
+r1
+xCompileC
+xbuild/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/MainViewController.o
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m319565062#319565062#0(0"0(0#0#78"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m8613718144#2111"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-generated-files.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-own-target-headers.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-all-target-headers.hmap -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-project-headers.hmap -F/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/include -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources/i386 -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources -include /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch -c /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/MainViewController.m -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToeAppDelegate.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319534706.362620
+e319534706.501831
+r1
+xCompileC
+xbuild/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToeAppDelegate.o
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m319534706#319534706#0(0"0(0#0#80"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m8612752544#2115"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-generated-files.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-own-target-headers.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-all-target-headers.hmap -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-project-headers.hmap -F/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/include -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources/i386 -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources -include /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch -c /Users/mcleung/Documents/iPhoneProjects/TicTacToe/Classes/TicTacToeAppDelegate.m -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToeAppDelegate.o0#
+
+CCompileC build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/main.o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319521640.083460
+e319521640.144512
+r1
+xCompileC
+xbuild/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/main.o
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m319521640#319521640#0(0"0(0#0#56"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m8599161472#2075"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-generated-files.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-own-target-headers.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-all-target-headers.hmap -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-project-headers.hmap -F/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/include -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources/i386 -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources -include /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch -c /Users/mcleung/Documents/iPhoneProjects/TicTacToe/main.m -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mcleung/Documents/iPhoneProjects/TicTacToe/FlipsideView.xib
+s319531364.794284
+e319531365.258256
+r1
+xCompileXIB
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib319531364#319531365#0(0"0(0#0#66"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/FlipsideView.xib8615716224#609"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/FlipsideView.nib /Users/mcleung/Documents/iPhoneProjects/TicTacToe/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainView.xib
+s319526007.053597
+e319526007.871088
+r1
+xCompileXIB
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib319526007#319526007#0(0"0(0#0#62"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainView.xib8614820928#601"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/MainView.nib /Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainWindow.xib
+s319523115.083807
+e319523115.436110
+r1
+xCompileXIB
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319523115#319523115#0(0"0(0#0#64"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainWindow.xib8612201664#605"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/MainWindow.nib /Users/mcleung/Documents/iPhoneProjects/TicTacToe/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app.dSYM /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe
+s319565062.503760
+e319565062.521518
+r1
+xGenerateDSYMFile
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app.dSYM
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TicTacToe.app.dSYM build/Debug-iphonesimulator/TicTacToe.app/TicTacToe319565062#319565062#0(0"0(0#0#101"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe8613712896#422"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app.dSYM0#
+
+CLd /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe normal i386
+s319565062.480785
+e319565062.503658
+r1
+xLd
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe
+xnormal
+xi386
+lSLF07#2@106"Link /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe319565062#319565062#0(0"0(0#0#0"8614011392#965"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -F/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -filelist /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/Objects-normal/i386/TicTacToe.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/TicTacToe0#
+
+CProcessInfoPlistFile /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/Info.plist TicTacToe-Info.plist
+s319521638.198488
+e319521638.204371
+r1
+xProcessInfoPlistFile
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/Info.plist
+xTicTacToe-Info.plist
+lSLF07#2@28"Process TicTacToe-Info.plist319521638#319521638#0(0"0(0#0#70"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/TicTacToe-Info.plist28429449394651236#518"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TicTacToe-Info.plist -genpkginfo /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app/Info.plist0#
+
+CProcessPCH /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch.gch TicTacToe_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319521638.976201
+e319521640.083237
+r1
+xProcessPCH
+x/var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch.gch
+xTicTacToe_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TicTacToe_Prefix.pch319521638#319521640#0(0"0(0#0#70"/Users/mcleung/Documents/iPhoneProjects/TicTacToe/TicTacToe_Prefix.pch8604937632#1954"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-generated-files.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-own-target-headers.hmap -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-all-target-headers.hmap -iquote /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/TicTacToe-project-headers.hmap -F/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/include -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources/i386 -I/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/TicTacToe.build/Debug-iphonesimulator/TicTacToe.build/DerivedSources -c /Users/mcleung/Documents/iPhoneProjects/TicTacToe/TicTacToe_Prefix.pch -o /var/folders/pr/prPXWfQzEuyCZgv1sjPiW++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TicTacToe_Prefix-eotmkzcguwppkhbdecruzfchjqqe/TicTacToe_Prefix.pch.gch0#
+
+CTouch /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app
+s319565062.521602
+e319565062.523885
+r1
+xTouch
+x/Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app
+lSLF07#2@97"Touch /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app319565062#319565062#0(0"0(0#0#0"8613693536#302"    cd /Users/mcleung/Documents/iPhoneProjects/TicTacToe    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mcleung/Documents/iPhoneProjects/TicTacToe/build/Debug-iphonesimulator/TicTacToe.app0#
+
